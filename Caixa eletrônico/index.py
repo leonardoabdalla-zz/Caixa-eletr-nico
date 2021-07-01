@@ -1,3 +1,6 @@
+print(f'='*50)
+print(f'{"CAIXA ELETRÔNICO":^50}')
+print(f'='*50)
 while True:
     sacar = int(input('Qual valor deseja sacar? '))
     valor = cont50 = cont20 = cont10 = cont1 = cont = 0
